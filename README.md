@@ -2,4 +2,4 @@ Repository for studying different algorithms and data structures using many prog
 
 ## Challenges
 
-### Palindrome: A word or sentence is a palindrome which reads the same backward as forward. Data Strucutures used: Queue and Stack
+* Palindrome: A word or sentence is a palindrome when read in the same way both backwards and forwards. Data Strucutures used: Queue and Stack
