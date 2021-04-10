@@ -1,7 +1,7 @@
 package trie;
 
 public class Trie {
-    private final TrieNode root;
+    protected final TrieNode root;
 
     public Trie() {
         this.root = new TrieNode();
